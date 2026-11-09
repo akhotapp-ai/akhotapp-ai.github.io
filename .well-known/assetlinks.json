@@ -2,6 +2,13 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "io.github.akhotapp_ai.twa",
+    "sha256_cert_fingerprints": ["1B:75:82:88:26:5C:27:16:69:BF:84:DC:7D:F1:B3:45:BB:FB:2A:16:14:DF:D1:35:97:DC:D8:4E:7E:26:82:B2"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "app.netlify.smartlekka_expensetracker_akhot.twa",
     "sha256_cert_fingerprints": ["6E:FC:FB:7F:C5:DA:F4:E2:30:82:A3:6F:C1:BF:87:BF:EE:C1:77:C6:27:05:D0:37:EE:67:9A:89:D4:14:FE:5A"]
   }
